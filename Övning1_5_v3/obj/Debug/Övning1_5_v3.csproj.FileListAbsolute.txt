@@ -1,0 +1,11 @@
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\bin\Debug\Övning1_5_v3.exe.config
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\bin\Debug\Övning1_5_v3.exe
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\bin\Debug\Övning1_5_v3.pdb
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\obj\Debug\Övning1_5_v3.csproj.AssemblyReference.cache
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\obj\Debug\Övning1_5_v3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\obj\Debug\Övning1_5_v3.Form1.resources
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\obj\Debug\Övning1_5_v3.Properties.Resources.resources
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\obj\Debug\Övning1_5_v3.csproj.GenerateResource.cache
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\obj\Debug\Övning1_5_v3.csproj.CoreCompileInputs.cache
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\obj\Debug\Övning1_5_v3.exe
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\Övning1_5_v3\obj\Debug\Övning1_5_v3.pdb
