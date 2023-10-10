@@ -1,0 +1,11 @@
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\bin\Debug\InförPraktik_Uppgift1.exe.config
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\bin\Debug\InförPraktik_Uppgift1.exe
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\bin\Debug\InförPraktik_Uppgift1.pdb
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\obj\Debug\InförPraktik_Uppgift1.csproj.AssemblyReference.cache
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\obj\Debug\InförPraktik_Uppgift1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\obj\Debug\InförPraktik_Uppgift1.Form1.resources
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\obj\Debug\InförPraktik_Uppgift1.Properties.Resources.resources
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\obj\Debug\InförPraktik_Uppgift1.csproj.GenerateResource.cache
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\obj\Debug\InförPraktik_Uppgift1.csproj.CoreCompileInputs.cache
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\obj\Debug\InförPraktik_Uppgift1.exe
+C:\Users\tahmi\Documents\2. School\Programmering 2\Kapitel1\InförPraktik_Uppgift1\obj\Debug\InförPraktik_Uppgift1.pdb
