@@ -1,0 +1,16 @@
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\bin\Debug\net6.0-windows\InförProvARV.exe
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\bin\Debug\net6.0-windows\InförProvARV.deps.json
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\bin\Debug\net6.0-windows\InförProvARV.runtimeconfig.json
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\bin\Debug\net6.0-windows\InförProvARV.dll
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\bin\Debug\net6.0-windows\InförProvARV.pdb
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\InförProvARV.Form1.resources
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\InförProvARV.csproj.GenerateResource.cache
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\InförProvARV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\InförProvARV.AssemblyInfoInputs.cache
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\InförProvARV.AssemblyInfo.cs
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\InförProvARV.csproj.CoreCompileInputs.cache
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\InförProvARV.dll
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\refint\InförProvARV.dll
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\InförProvARV.pdb
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\InförProvARV.genruntimeconfig.cache
+C:\Users\tahmi\Source\Repos\tahlas\Kapitel2\InförProvARV\obj\Debug\net6.0-windows\ref\InförProvARV.dll
