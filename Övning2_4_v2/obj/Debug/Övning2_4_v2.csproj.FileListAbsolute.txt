@@ -1,0 +1,10 @@
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\bin\Debug\Övning2_4_v2.exe.config
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\bin\Debug\Övning2_4_v2.exe
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\bin\Debug\Övning2_4_v2.pdb
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\obj\Debug\Övning2_4_v2.csproj.AssemblyReference.cache
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\obj\Debug\Övning2_4_v2.Form1.resources
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\obj\Debug\Övning2_4_v2.Properties.Resources.resources
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\obj\Debug\Övning2_4_v2.csproj.GenerateResource.cache
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\obj\Debug\Övning2_4_v2.csproj.CoreCompileInputs.cache
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\obj\Debug\Övning2_4_v2.exe
+C:\Users\tahmi\source\repos\tahlas\Kapitel2\Övning2_4_v2\obj\Debug\Övning2_4_v2.pdb
